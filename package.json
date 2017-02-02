@@ -8,6 +8,7 @@
     "npm":"2.15.9"
   },
   "scripts": {
+    "start":"server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "SandDrifter",
